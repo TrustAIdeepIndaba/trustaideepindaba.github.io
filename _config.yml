@@ -7,21 +7,17 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Celia Cintas 
-tagline:          'Celia Cintas Homepage'
+title:            Trustworthy Machine Learning Workshop @ DeepIndaba 2022
+tagline:          'Trustworthy Machine Learning Workshop @ DeepIndaba 2022'
 description:      ''
 url:              'http://trustmldeepindaba.github.io/'
 baseurl:          ''
 
 author:
-  name:           'Celia Cintas'
-  url:            https://twitter.com/RTFMCelia
-  insta:          https://www.instagram.com/celitacintas/
+  name:           'TrustML team'
 
 paginate:         5
 # Custom vars
-googlescholar: 
-   url:           'https://scholar.google.com/citations?view_op=list_works&hl=en&user=7C8_pL4AAAAJ'
 
 
 plugins:
