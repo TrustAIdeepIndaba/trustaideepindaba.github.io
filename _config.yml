@@ -7,7 +7,7 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            TrustML Workshop @ DeepIndaba 2022
+title:            TrustML Workshop 2022
 tagline:          'Trustworthy Machine Learning Workshop @ DeepIndaba 2022'
 description:      ''
 url:              'http://trustmldeepindaba.github.io/'
