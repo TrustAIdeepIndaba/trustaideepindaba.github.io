@@ -7,14 +7,14 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            TrustML Workshop 2022
-tagline:          'TrustML Workshop 2022'
+title:            TrustAI Workshop 2022
+tagline:          'TrustAI Workshop 2022'
 description:      ''
-url:              'http://trustmldeepindaba.github.io/'
+url:              'http://trustaideepindaba.github.io/'
 baseurl:          ''
 
 author:
-  name:           'TrustML team'
+  name:           'TrustAI team'
 
 paginate:         5
 # Custom vars
