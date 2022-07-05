@@ -7,7 +7,6 @@ As participants in the Indaba Community, you are asked and expected to comply wi
 
 This code of conduct and ethics outlines what the expected standards of behaviour on all Indaba platforms and events are. It is every participant’s responsibility to uphold, and is how we maintain an environment that keeps everyone safe and welcome. This document consists of two parts, the Code of Conduct and the Code of Ethics.
 
-## Code of Conduct 
 Every participant is responsible for promoting and creating a safe experience for all participants, regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, nationality, age, religion, or socioeconomic status.
 
 Our duty as an Indaba community is to create a familyhood of people and cultures and learning, built on the principles of collective personsonhood, freedom, equality and unity; and towards the aim of strengthening African machine learning. We best serve each other when we allow each other the freedom to be as we are; only on the basis of equality – between genders, nationalities or other differences – can we work together cooperatively; and when we are united as a society can we work towards the good of all.
