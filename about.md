@@ -4,7 +4,8 @@ title: About
 ---
 
 ## The Trustworthy AI Workshop @ DeepIndaba 2022
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta lorem turpis, et iaculis justo convallis quis. Donec dapibus, leo id dictum pharetra, sem lectus commodo libero, quis tempor magna augue non nulla. Ut porttitor ullamcorper magna eget egestas. Sed fringilla imperdiet arcu, sed volutpat est tincidunt et. Maecenas ultricies convallis elit cursus gravida. Nunc eleifend lacus in ipsum egestas gravida. Praesent non feugiat sapien, non venenatis elit. Vestibulum pulvinar pharetra augue quis faucibus. Nulla porta libero purus, ac dictum eros faucibus eget. Suspendisse eget auctor leo. Etiam ac nulla eu purus vestibulum mollis. Integer eleifend ornare nisi non viverra. Sed malesuada efficitur ullamcorper. Maecenas pharetra turpis ut ex dapibus, in eleifend nisl tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Trustworthy AI aims to provide explainable, robust and fair decision making process. In addition, transparency and security also plays a significant role to improve the adoptability and impact of ML solutions. Particularly, data and models often imported from external sources in addressing solutions in developing countries, thereby  risking potential security issues.   The  divergence of data and model from population at hand also poses a lack of transparency and explainabilty of the decision making process. Thus,  a  workshop at Deep Indaba 2022 on this specific theme aims to bring researchers, policy makers and regulators to discuss on ways to ensure security and transparency while addressing fundamental problems in developing countries, particularly, when data and models are imported and/or collected locally with less focus on ethical consideraions and governance guidelines.
 
 ## Organizers
 TBD
