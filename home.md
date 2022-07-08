@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: page
+title: About
 ---
 
 ## The Trustworthy AI Workshop @ DeepIndaba 2022
