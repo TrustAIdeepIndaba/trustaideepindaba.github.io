@@ -9,7 +9,7 @@ Trustworthy AI aims to provide explainable, robust and fair decision making proc
 
 ## Organizers
 
--  Aisha Alaagib
+-  Aisha Alryeh Mkean Alaagib
 -  [Girmaw Abebe Tadesse](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Girmaw.Abebe.Tadesse) 
 -  [Luis Oala](https://luisoala.net/)
 -  [Celia Cintas](https://celiacintas.github.io/about/)
