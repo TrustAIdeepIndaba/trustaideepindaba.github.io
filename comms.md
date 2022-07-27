@@ -10,7 +10,7 @@ title: Schedule
 | Time | Title             |
 |------|-------------------|
 | 8:00AM     | Opening remarks        |
-| 8:10AM     | Keynote 1         |
+| 8:10AM     | Keynote: Adaptive Learning with Artificial Barriers by Prof. Anis Yazidi  |
 | 8:50AM     | Presentation 1    |
 | 9:05AM     | Presentation 2    |
 | 9:20AM     | Presentation 3    |
