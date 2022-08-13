@@ -20,9 +20,9 @@ title: Schedule
 | 10:00AM     | Network Session & Coffee break      |
 |  2:00PM   | Keynote 3         |
 | 2:20PM     | Keynote Q&A |
-|  2:30PM    | Presentation 4    |
-|  2:40PM    | Presentation 5    |
-| 2:50PM     | Presentation 4 & 5 Q&A   |
+|  2:30PM    | Presentation 3    |
+|  2:40PM    | Presentation 4    |
+| 2:50PM     | Presentation 3 & 4 Q&A   |
 |   3:00PM  | Panel Discussion  |
 |   3:50PM  | Closing remarks  |
 |   4:00PM  | End of the Workshop  |
