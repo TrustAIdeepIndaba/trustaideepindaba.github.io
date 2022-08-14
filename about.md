@@ -13,6 +13,3 @@ Trustworthy AI aims to provide explainable, robust and fair decision making proc
 -  [Girmaw Abebe Tadesse](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Girmaw.Abebe.Tadesse) 
 -  [Luis Oala](https://luisoala.net/)
 -  [Celia Cintas](https://celiacintas.github.io/about/)
-
-## Program Committee
-TBD
