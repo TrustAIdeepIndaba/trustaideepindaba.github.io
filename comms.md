@@ -10,12 +10,12 @@ title: Schedule
 | Time | Title             |
 |------|-------------------|
 | 8:30AM     | Opening remarks        |
-| 8:35AM     | Keynote: **Adaptive Learning with Artificial Barriers by Prof. Anis Yazidi**  |
+| 8:35AM     | **Keynote: Adaptive Learning with Artificial Barriers by Prof. Anis Yazidi**  |
 | 8:55AM     | Keynote Q&A |
 | 9:00AM     | Presentation 1    |
 | 9:10AM     | Presentation 2    |
 | 9:20AM     | Presentation 1 & 2 Q&A   |
-| 9:30AM     | Keynote: **Making AI Explainable for Novice Technology Users in Low-Resource Settings by Chinasa T. Okolo** |
+| 9:30AM     | **Keynote: Making AI Explainable for Novice Technology Users in Low-Resource Settings by Chinasa T. Okolo** |
 | 9:50AM     | Keynote Q&A |
 | 10:00AM     | Network Session & Coffee break      |
 |  2:00PM   | Keynote 3         |
