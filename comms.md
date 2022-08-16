@@ -18,7 +18,7 @@ title: Schedule
 | 9:30AM     | **Keynote: Making AI Explainable for Novice Technology Users in Low-Resource Settings by Chinasa T. Okolo** |
 | 9:50AM     | Keynote Q&A |
 | 10:00AM     | Network Session & Coffee break      |
-|  2:00PM   | Keynote 3         |
+|  2:00PM   | **Keynote: Trustworthy AI as Decolonial AI by Shakir Mohamed**         |
 | 2:20PM     | Keynote Q&A |
 |  2:30PM    | Presentation 3    |
 |  2:40PM    | Presentation 4    |
