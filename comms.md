@@ -22,6 +22,6 @@ title: Schedule
 |  2:10PM    | Presentation 4    |
 | 2:20PM     | Presentation 3 & 4 Q&A   |
 |  2:30PM   | **Keynote: Trustworthy AI as Decolonial AI by Shakir Mohamed**         |
-|   2:50PM  | Panel Discussion  |
+|   2:50PM  | Panel Discussion with Wiebke Toussaint (University of Delft), Essa Mohamedali (Tanzania AI Lab), Caleb Robinson (Microsoft AI for Good) &  Shakir Mohamed (DeepMind)|
 |   3:50PM  | Closing remarks  |
 |   4:00PM  | End of the Workshop  |
