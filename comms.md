@@ -22,6 +22,6 @@ title: Schedule
 |  2:10PM    | Roles of weights in a trained deep learning algorithm by *Deogratias Mzurikwao*  |
 | 2:20PM     | Afternoon Session Q&A   |
 |  2:30PM   | **Keynote: Trustworthy AI as Decolonial AI by Shakir Mohamed**         |
-|   2:50PM  | Panel Discussion with Wiebke Toussaint (University of Delft), Essa Mohamedali (Tanzania AI Lab), Caleb Robinson (Microsoft AI for Good) &  Shakir Mohamed (DeepMind)|
+|   2:50PM  | Panel Discussion with Wiebke Toussaint (University of Delft), Essa Mohamedali (Tanzania AI Lab), Amal Rannen Triki (DeepMind), Caleb Robinson (Microsoft AI for Good) &  Shakir Mohamed (DeepMind)|
 |   3:50PM  | Closing remarks  |
 |   4:00PM  | End of the Workshop  |
