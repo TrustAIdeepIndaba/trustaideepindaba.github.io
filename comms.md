@@ -5,7 +5,7 @@ title: Schedule
 
 ## Workshop Schedule 📯
 
-26th August, 8-10am 2-4pm
+26th August, 8.30-10.30am and 2-4pm
 
 | Time | Title             |
 |------|-------------------|
