@@ -1,0 +1,21 @@
+---
+layout: post
+title: Keynote Announcement
+---
+
+### Keynote: Training Dynamics and Trust in Machine Learning by Nicolas Papernot
+
+![Nicolas](public/post/Nicolas Papernot.jpeg){:height="200px" style="float: left; margin-right: 1em"} 
+
+**Bio:** "Nicolas Papernot is an Assistant Professor of Computer Engineering and Computer Science at the 
+University of Toronto. He also holds a Canada CIFAR AI Chair at the Vector Institute and is a faculty 
+affiliate at the Schwartz Reisman Institute. His research interests span the security and privacy of 
+machine learning. Some of his group’s recent projects include proof-of-learning, collaborative learning 
+beyond federation, dataset inference, and machine unlearning. Nicolas is an Alfred P. Sloan Research 
+Fellow in Computer Science. His work on differentially private machine learning was awarded an 
+outstanding paper at ICLR 2022 and a best paper at ICLR 2017. He serves as an associate chair of the 
+IEEE Symposium on Security and Privacy (Oakland), and an area chair of NeurIPS. 
+He co-created and co-chaired the first IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) in 2023. Nicolas 
+earned his Ph.D. at the Pennsylvania State University, working with Prof. Patrick McDaniel and 
+supported by a Google PhD Fellowship. Upon graduating, he spent a year at Google Brain where he still 
+spends some of his time."
