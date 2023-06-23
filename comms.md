@@ -27,6 +27,6 @@ title: Schedule
 |3:40PM | **Keynote: TBA**                                |
 |4:10PM | Keynote Q&A                                       |
 |4:30PM  | Network Session & Coffee break      |
-|4:40PM  | Panel Discussion: TBA)                      |
+|4:40PM  | Panel Discussion: (TBA)                      |
 |5:50PM  | Closing remarks                                  |
 |6:00PM  | End of the Workshop                          |
