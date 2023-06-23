@@ -5,23 +5,28 @@ title: Schedule
 
 ## Workshop Schedule 📯
 
-TBD September 
+8 September 2023
 
 | Time | Title             |
 |------|-------------------|
-| 8:30AM     | Opening remarks        |
-| 8:35AM     | **Keynote: TBA**  |
-| 8:55AM     | Keynote Q&A |
-| 9:00AM     | Contributed Talk |
-| 9:10AM     | Contributed Talk |
-| 9:20AM     | Morning Session Q&A   |
-| 9:30AM     | **Keynote: TBA** |
-| 9:50AM     | Keynote Q&A |
-| 10:00AM     | Network Session & Coffee break      |
-|  2:00PM    | Contributed Talk |
-|  2:10PM    | Contributed Talk  |
-| 2:20PM     | Afternoon Session Q&A   |
-|  2:30PM   | **Keynote: TBA**         |
-|   2:50PM  | Panel Discussion: TBA)|
-|   3:50PM  | Closing remarks  |
-|   4:00PM  | End of the Workshop  |
+|11:00AM | Opening remarks                                |
+|11:05AM | **Keynote: TBA**                                |
+|11:35AM | Keynote Q&A                                       |
+|11:45AM | Contributed Talk                                 |
+|11:55AM | Contributed Talk                                 |
+|12:05PM | Morning Session Q&A                        |
+|12:30PM  | Network Session & Lunch break      |
+|2:00PM  | Contributed Talk                                 |
+|2:10PM  | Contributed Talk                                  |
+|2:20PM  | Afternoon Session 1 Q&A                      |
+|2:30PM  | **Keynote: TBA**                                |
+|3:00AM  | Keynote Q&A                                       |
+|3:10PM  | Contributed Talk                                 |
+|3:20PM  | Contributed Talk                                 |
+|3:30PM  | Afternoon Session 1 Q&A                   |
+|3:40PM | **Keynote: TBA**                                |
+|4:10PM | Keynote Q&A                                       |
+|4:30PM  | Network Session & Coffee break      |
+|4:40PM  | Panel Discussion: TBA)                      |
+|5:50PM  | Closing remarks                                  |
+|6:00PM  | End of the Workshop                          |
