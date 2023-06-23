@@ -23,7 +23,7 @@ title: Schedule
 |3:00AM  | Keynote Q&A                                       |
 |3:10PM  | Contributed Talk                                 |
 |3:20PM  | Contributed Talk                                 |
-|3:30PM  | Afternoon Session 1 Q&A                   |
+|3:30PM  | Afternoon Session 2 Q&A                   |
 |3:40PM | **Keynote: TBA**                                |
 |4:10PM | Keynote Q&A                                       |
 |4:30PM  | Network Session & Coffee break      |
