@@ -24,9 +24,10 @@ title: Schedule
 |2:50PM| Contributed Talk                                 |
 |3:00PM| Afternoon Session  Q&A                      |
 |3:10PM| **Keynote: TBA**                                |
-|3:30PM| **Keynote: TBA**                                |
-|3:50PM| Keynote Q&A                                       |
-|4:00PM| Network Session & Coffee break      |
+|3:30PM| Keynote Q&A                                       |
+|3:40PM| **Keynote: TBA**                                |
+|4:00PM| Keynote Q&A                                       |
+|4:10PM| Network Session & Coffee break      |
 |4:30PM| Panel Discussion: (TBA)                      |
 |5:50PM| Closing remarks                                  |
 |6:00PM| End of the Workshop                          |
