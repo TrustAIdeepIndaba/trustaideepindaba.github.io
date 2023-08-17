@@ -23,7 +23,7 @@ title: Schedule
 |2:40PM| Contributed Talk                                  |
 |2:50PM| Contributed Talk                                 |
 |3:00PM| Afternoon Session  Q&A                      |
-|3:10PM| **Keynote: TBA**                                |
+|3:10PM| **Keynote by Dr. Aisha Walcott**                                |
 |3:30PM| Keynote Q&A                                       |
 |3:40PM| **Keynote: TBA**                                |
 |4:00PM| Keynote Q&A                                       |
