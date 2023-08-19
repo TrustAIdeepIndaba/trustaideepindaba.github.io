@@ -25,7 +25,7 @@ title: Schedule
 |3:00PM| Afternoon Session  Q&A                      |
 |3:10PM| **Keynote by [Dr. Aisha Walcott](https://trustaideepindaba.github.io/2023/06/15/keynote/)**                                |
 |3:30PM| Keynote Q&A                                       |
-|3:40PM| **Keynote: TBA**                                |
+|3:40PM| **Keynote: Training Dynamics and Trust in Machine Learning by Nicolas Papernot by [Dr. Nicolas Papernot](https://trustaideepindaba.github.io/2023/06/16/keynote/)**                                |
 |4:00PM| Keynote Q&A                                       |
 |4:10PM| Network Session & Coffee break      |
 |4:30PM| Panel Discussion: (TBA)                      |
