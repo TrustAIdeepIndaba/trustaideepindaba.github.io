@@ -10,14 +10,14 @@ title: Schedule
 | Time | Title             |
 |------|-------------------|
 |11:00AM| Opening remarks                                |
-|11:05AM| **Keynote: TBA**                                |
+|11:05AM| **Keynote: A Quantitative Approach to Measuring Responsible AI, Reflections from RAIN by [Prof. Jerry John Kponyo](https://trustaideepindaba.github.io/2023/07/20/keynote/)**                                |
 |11:35AM| Keynote Q&A                                       |
 |11:45AM| Contributed Talk                                 |
 |11:55AM| Contributed Talk                                 |
 |12:05PM| Contributed Talk                                 |
 |12:15PM| Morning Session Q&A                        |
 |12:30PM| Network Session & Lunch break      |
-|2:00PM| **Keynote: TBA**                                |
+|2:00PM| **Keynote: Larger isn’t always better by [Dr. Abebe Birhane](https://trustaideepindaba.github.io/2023/07/15/keynote/)**                                |
 |2:20PM| Keynote Q&A                                       |
 |2:30PM| Contributed Talk                                 |
 |2:40PM| Contributed Talk                                  |
