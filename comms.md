@@ -12,15 +12,15 @@ title: Schedule
 |11:00AM| Opening remarks                                |
 |11:05AM| **Keynote: A Quantitative Approach to Measuring Responsible AI, Reflections from RAIN by [Prof. Jerry John Kponyo](https://trustaideepindaba.github.io/2023/07/20/keynote/)**                                |
 |11:35AM| Keynote Q&A                                       |
-|11:45AM| Contributed Talk                                 |
-|11:55AM| Contributed Talk                                 |
-|12:05PM| Contributed Talk                                 |
+|11:45AM| Phonocardiogram Classification: Leveraging 1D Inception Time Convolutional Neural Networks with Explainable AI using Grad-CAM. *Bjørn-Jostein Singstad, Antony M. Gitau.*                                 |
+|11:55AM| On Diagnostics for Understanding Agent Training Behaviour in Cooperative MARL. *Wiem Khlifi, Siddarth Singh, Omayma Mahjoub, Ruan de Rock, Abidine Vall, Rihab Gorsane, Arnu Pretorius*.                                 |
+|12:05PM| Fairness in Credit Scoring. *Nokuthula K., Nathi N., Nadiera M.,Siyanda N.*                                 |
 |12:15PM| Morning Session Q&A                        |
 |12:30PM| Network Session & Lunch break      |
 |2:00PM| **Keynote: Larger isn’t always better by [Dr. Abebe Birhane](https://trustaideepindaba.github.io/2023/07/15/keynote/)**                                |
 |2:20PM| Keynote Q&A                                       |
-|2:30PM| Contributed Talk                                 |
-|2:40PM| Contributed Talk                                  |
+|2:30PM| Investigating the Robustness of Arabic Offensive Language Transformer-based Classifiers To Adversarial Attacks. *Maged Abdelaty, Ahmed El-Sayed Mahmoud, Shaimaa Lazem*.                                 |
+|2:40PM| Algorithmic Techniques for Mitigating Gender Bias in Word Embeddings. *Victor Ashioya*.                                  |
 |2:50PM| Contributed Talk                                 |
 |3:00PM| Afternoon Session  Q&A                      |
 |3:10PM| **Keynote by [Dr. Aisha Walcott](https://trustaideepindaba.github.io/2023/06/15/keynote/)**                                |
