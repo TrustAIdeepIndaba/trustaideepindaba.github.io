@@ -17,7 +17,7 @@ title: Schedule
 |12:05PM| Fairness in Credit Scoring. *Nokuthula K., Nathi N., Nadiera M.,Siyanda N.*                                 |
 |12:15PM| Morning Session Q&A                        |
 |12:30PM| Network Session & Lunch break      |
-|2:00PM| **Keynote: Larger isn’t always better by [Dr. Abebe Birhane](https://trustaideepindaba.github.io/2023/07/15/keynote/)**                                |
+|2:00PM| **Keynote: Larger isn’t always better by [Dr. Abeba Birhane](https://trustaideepindaba.github.io/2023/07/15/keynote/)**                                |
 |2:20PM| Keynote Q&A                                       |
 |2:30PM| Investigating the Robustness of Arabic Offensive Language Transformer-based Classifiers To Adversarial Attacks. *Maged Abdelaty, Ahmed El-Sayed Mahmoud, Shaimaa Lazem*.                                 |
 |2:40PM| Algorithmic Techniques for Mitigating Gender Bias in Word Embeddings. *Victor Ashioya*.                                  |
