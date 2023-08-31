@@ -23,9 +23,9 @@ title: Schedule
 |2:40PM| Algorithmic Techniques for Mitigating Gender Bias in Word Embeddings. *Victor Ashioya*.                                  |
 |2:50PM| Contributed Talk                                 |
 |3:00PM| Afternoon Session  Q&A                      |
-|3:10PM| **Keynote by [Dr. Aisha Walcott](https://trustaideepindaba.github.io/2023/06/15/keynote/)**                                |
+|3:10PM| **Keynote: Thinking of Trust beyond Data and Models by [Dr. Aisha Walcott](https://trustaideepindaba.github.io/2023/06/15/keynote/)**                                |
 |3:30PM| Keynote Q&A                                       |
-|3:40PM| **Keynote: Training Dynamics and Trust in Machine Learning by Nicolas Papernot by [Dr. Nicolas Papernot](https://trustaideepindaba.github.io/2023/06/16/keynote/)**                                |
+|3:40PM| **Keynote: Training Dynamics and Trust in Machine Learning by [Dr. Nicolas Papernot](https://trustaideepindaba.github.io/2023/06/16/keynote/)**                                |
 |4:00PM| Keynote Q&A                                       |
 |4:10PM| Network Session & Coffee break      |
 |4:30PM| **Panel Discussion** Going beyond buzzwords and metrics: What will it *actually* take to achieve equitable, accessible and transparent AI? Panelists: [Roseanne Liu](https://rosanneliu.com/) (Google DeepMind), [Tyna Eloundou](https://eloundou.net/) (OpenAI) and [Siobhan Mackenzie Hall](https://twitter.com/smhall97) (University of Oxford) Moderator: Nathi Ndlovu (South Africa Council for Scientific and Industrial Research)|
