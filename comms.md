@@ -28,6 +28,6 @@ title: Schedule
 |3:40PM| **Keynote: Training Dynamics and Trust in Machine Learning by [Dr. Nicolas Papernot](https://trustaideepindaba.github.io/2023/06/16/keynote/)**                                |
 |4:00PM| Keynote Q&A                                       |
 |4:10PM| Network Session & Coffee break      |
-|4:30PM| **Panel Discussion** Going beyond buzzwords and metrics: What will it *actually* take to achieve equitable, accessible and transparent AI? Panelists: [Roseanne Liu](https://rosanneliu.com/) (Google DeepMind), [Tyna Eloundou](https://eloundou.net/) (OpenAI) and [Siobhan Mackenzie Hall](https://twitter.com/smhall97) (University of Oxford) Moderator: Nathi Ndlovu (South Africa Council for Scientific and Industrial Research)|
+|4:30PM| **Panel Discussion** Going beyond buzzwords and metrics: What will it *actually* take to achieve equitable, accessible and transparent AI? Panelists: [Roseanne Liu](https://rosanneliu.com/) (Google DeepMind), [Tyna Eloundou](https://scholar.google.com/citations?user=8dwbJHkAAAAJ) (OpenAI) and [Siobhan Mackenzie Hall](https://twitter.com/smhall97) (University of Oxford) Moderator: Nathi Ndlovu (South Africa Council for Scientific and Industrial Research)|
 |5:50PM| Closing remarks                                  |
 |6:00PM| End of the Workshop                          |
