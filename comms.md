@@ -20,9 +20,8 @@ title: Schedule
 |2:00PM| **Keynote: Larger isn’t always better by [Dr. Abeba Birhane](https://trustaideepindaba.github.io/2023/07/15/keynote/)**                                |
 |2:20PM| Keynote Q&A                                       |
 |2:30PM| Investigating the Robustness of Arabic Offensive Language Transformer-based Classifiers To Adversarial Attacks. *Maged Abdelaty, Ahmed El-Sayed Mahmoud, Shaimaa Lazem*.                                 |
-|2:40PM| Algorithmic Techniques for Mitigating Gender Bias in Word Embeddings. *Victor Ashioya*.                                  |
-|2:50PM| Contributed Talk                                 |
-|3:00PM| Afternoon Session  Q&A                      |
+|2:40PM| Algorithmic Techniques for Mitigating Gender Bias in Word Embeddings. *Victor Ashioya*.                                  |                          
+|2:50PM| Afternoon Session  Q&A                      |
 |3:10PM| **Keynote: Thinking of Trust beyond Data and Models by [Dr. Aisha Walcott](https://trustaideepindaba.github.io/2023/06/15/keynote/)**                                |
 |3:30PM| Keynote Q&A                                       |
 |3:40PM| **Keynote: Training Dynamics and Trust in Machine Learning by [Dr. Nicolas Papernot](https://trustaideepindaba.github.io/2023/06/16/keynote/)**                                |
