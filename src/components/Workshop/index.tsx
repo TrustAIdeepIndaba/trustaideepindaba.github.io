@@ -535,7 +535,9 @@ const Workshop = (props) => {
             </Container>
           </>
         )}
-        <Box
+        {activeWs === "taid2025" && (
+          <>
+          <Box
           sx={{
             backgroundColor: "#e6ecda",
             display: "flex",
@@ -581,6 +583,8 @@ const Workshop = (props) => {
             ))}
           </Stack>
         </Container>
+          </>
+        )}
         <Box
           sx={{
             backgroundColor: "#e6ecda",

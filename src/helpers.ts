@@ -491,7 +491,68 @@ export const workshops = {
         affiliate: null,
       },
     ],
-    panelists: [],
+    panelists: [
+      {
+        name: "Rosanne Liu",
+        image: null,
+        bio: "",
+        topic: "",
+        expanded: false,
+        link: null,
+        affiliate:
+          "Google DeepMind",
+      },
+      {
+        name: "Tyna Eloundou",
+        image: null,
+        bio: "",
+        topic: "",
+        expanded: false,
+        link: null,
+        affiliate:
+          "OpenAI",
+      },
+      {
+        name: "Pelonomi Moiloa",
+        image: null,
+        bio: "",
+        topic: "",
+        expanded: false,
+        link: null,
+        affiliate:
+          "Lelapa AI",
+      },
+      {
+        name: "Siobhan Mackenzie Hall",
+        image: null,
+        bio: "",
+        topic: "",
+        expanded: false,
+        link: null,
+        affiliate:
+          "University of Oxford",
+      },
+          {
+        name: "Jerry John Kponyo",
+        image: null,
+        bio: "",
+        topic: "",
+        expanded: false,
+        link: null,
+        affiliate:
+          "Kwame Nkrumah University of Science and Technology",
+      },
+      {
+        name: "Nathi Ndlovu (Moderator)",
+        image: null,
+        bio: "",
+        topic: "",
+        expanded: false,
+        link: null,
+        affiliate:
+          "South Africa Council for Scientific and Industrial Research",
+      }
+    ],
     isls: [],
     organizers: [
       {
