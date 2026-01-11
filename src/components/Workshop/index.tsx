@@ -616,8 +616,8 @@ const Workshop = (props) => {
             >
               Deep Learning Indaba Code of Conduct
             </span>
-            .  
-            
+            <br />
+            .
           </Typography>
         </Container>
       </Box>
