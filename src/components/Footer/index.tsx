@@ -63,6 +63,14 @@ const Footer = () => {
                 </Box>
               ))}
             </Stack>
+            <Typography sx={{ fontSize: 12, color: "#666" }}>
+              <a
+                href="https://www.flaticon.com/free-icons/world"
+                title="world icons"
+              >
+                World icons created by Freepik - Flaticon
+              </a>
+            </Typography>
           </Stack>
         </Container>
       </Box>
