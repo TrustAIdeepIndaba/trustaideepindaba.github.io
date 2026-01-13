@@ -820,7 +820,7 @@ export const workshops = {
         starttime: "4:30PM",
         endtime: "5:50PM",
         title:
-          "Panel Discussion** Going beyond buzzwords and metrics: What will it *actually* take to achieve equitable, accessible and transparent AI?",
+          "Panel Discussion: Going beyond buzzwords and metrics: What will it *actually take to achieve equitable, accessible and transparent AI?",
         abstract: "",
         speakername:
           "Panelist: Rosanne Liu (Google DeepMind), Tyna Eloundou (OpenAI), Pelonomi Moiloa (Lelapa AI), Siobhan Mackenzie Hall (University of Oxford), Jerry John Kponyo (Kwame Nkrumah University of Science and Technology). Moderator: Nathi Ndlovu ( South Africa Council for Scientific and Industrial Research).",
