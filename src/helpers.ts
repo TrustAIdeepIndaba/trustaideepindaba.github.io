@@ -823,7 +823,7 @@ export const workshops = {
           "Panel Discussion: Going beyond buzzwords and metrics: What will it *actually take to achieve equitable, accessible and transparent AI?",
         abstract: "",
         speakername:
-          "Panelist: Rosanne Liu (Google DeepMind), Tyna Eloundou (OpenAI), Pelonomi Moiloa (Lelapa AI), Siobhan Mackenzie Hall (University of Oxford), Jerry John Kponyo (Kwame Nkrumah University of Science and Technology). Moderator: Nathi Ndlovu ( South Africa Council for Scientific and Industrial Research).",
+          "Panelist: Rosanne Liu (Google DeepMind), Tyna Eloundou (OpenAI), Pelonomi Moiloa (Lelapa AI), Siobhan Mackenzie Hall (University of Oxford), Jerry John Kponyo (Kwame Nkrumah University of Science and Technology). Moderator: Nathi Ndlovu (South Africa Council for Scientific and Industrial Research).",
         speakerlink: null,
       },
       {
