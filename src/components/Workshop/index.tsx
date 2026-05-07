@@ -133,7 +133,7 @@ const Workshop = (props) => {
                 for registered Indaba attendees. To submit a paper to our
                 workshop, at least one author must be accepted at Indaba at the
                 time of the workshop to be able to present the work on August
-                21st.
+                07th.
               </Alert>
             </Box>
           </Stack>

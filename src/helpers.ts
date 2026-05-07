@@ -11,6 +11,10 @@ export const projects = [{ label: "Trust AI Deep", value: "taid" }];
 
 export const settings = [
   {
+    name: "TrustAI @ Indaba 2026",
+    path: "TrustAIIndaba2026",
+  },
+  {
     name: "TrustAI @ Indaba 2025",
     path: "TrustAIIndaba2025",
   },
@@ -30,44 +34,16 @@ export const settings = [
 
 export const papers = [
   {
-    title: "The Impact of Domain Adaptation on the Activation Space of LLMs.",
-    author: "Assala Benmalek, Celia Cintas, Miriam Rateike, Skyler Speakman",
-    link: "",
-  },
-  {
-    title:
-      "Sentiment Analysis Approach for Gender-Based Issues: A Deep Learning Solution for Underserved African Communities",
-    author: "Thatohatsi Tilodi",
-    link: "",
-  },
-  {
-    title: "Geopolitics of Tin: The DR Congo in the Age of AI",
-    author: "Laure Gnassou",
-    link: "",
-  },
-  {
-    title:
-      "Auditing AI Fairness in African Health Diagnostics: A Case Study of CAD4TB at Zambia’s University Teaching Hospital",
-    author: "Billy Peter Munyenyembe, Precious Zulu",
-    link: "",
-  },
-  {
-    title: "Against 'softmaxing' culture",
-    author: "Daniel Mwesigwa",
-    link: "",
-  },
-  {
-    title:
-      "Operationalizing Pluralistic Values in Large Language Model Alignment Reveals Trade-offs in Safety, Inclusivity, and Model Behavior",
-    author: "Dalia Ali, Dora Zhao, Allison Koenecke, Orestis Papakyriakopoulos",
+    title: "",
+    author: "",
     link: "",
   },
 ];
 
-export const activeSchedule = "2025";
-export const activeCfp = "2025";
-export const activeOrganizers = "2025";
-export const activePage = "taid2025";
+export const activeSchedule = "2026";
+export const activeCfp = "2026";
+export const activeOrganizers = "2026";
+export const activePage = "taid2026";
 export const sociallinks = [
   {
     name: "bluesky",
@@ -84,6 +60,236 @@ export const sociallinks = [
 ];
 
 export const workshops = {
+  taid2026: {
+    name: "TrustAIDeepLIndaba2026",
+    title: "TrustAI Workshop: How Trustworthy Are LLM-as-Judges? Implications for the African Continent",
+    year: 2026,
+    datetime: "August 7th, 9:00 am to 12:00 pm",
+    location: "Deep Learning Indaba 2026",
+    locationimage: "/images/2022/indaba.jpg",
+    about:
+    "A growing practice in machine learning research is the use of large language models (LLMs) as automated evaluators, commonly referred to as LLM-as-judges. These models are used to assess outputs in place of established evaluation frameworks or human annotators or, primarily due to their convenience and cost efficiency. As this practice becomes increasingly normalized, it raises two fundamental concerns. First, how reliable, and thus trustworthy, are LLM-as-judges in research methodology? This concerns are particularly relevant in the African context, where limited resources may encourage greater reliance on LLM-as-judges. Second, how do the cultural values embedded in these models shape their evaluative decisions? Because most state- of- the - art LLMs are trained and aligned primarily on Western data and values, their use in evaluating Africa- related topics raises concerns about potential evaluation bias. Third, what are the broader implications of the increasing use of LLM-as-judges for the African continent? Replacing human annotators with LLM-as-judges risks centralizing evaluative authority in systems not grounded in African cultural contexts, while also undermining a key source of income for many African workers despite known concerns about their working conditions. This full- day workshop brings together researchers, practitioners, and stakeholders to discuss the trustworthiness of LLM-as-judges, with a particular focus on their role in research methodology and questions of cultural alignment, along with their broader socio-economic impacts in Africa. By creating space for this discussion, the workshop seeks to strengthen African-centered trustworthy AI ecosystems through evaluation practices that are inclusive, accountable, and reflective of diverse ways of knowing.",
+    speakers: [
+      {
+        name: "Chinasa T. Okolo",
+        image: "/images/2022/keynote2.jpeg",
+        bio: "Dr. Chinasa T. Okolo is an internationally recognized researcher, strategist, and policy advisor on AI governance and safety for the Global Majority. She is the Founder of Technecultura and a recent Computer Science Ph.D. graduate from Cornell University. Dr. Okolo also works as a Policy Specialist at the United Nations Office for Digital and Emerging Technologies (ODET) and as a World Bank Group Africa Fellow in the Development Economics Research Group. Her research examines how African governments can effectuate robust AI and data governance, investigates the geopolitical impacts of AI in the Majority World, and analyzes datafication and algorithmic marginalization in Africa. She is a former Fellow at the Brookings Institution and has worked in research-based roles at Apple and Microsoft. Dr. Okolo has been recognized as one of the world’s most influential people in AI by TIME, honored in the inaugural Forbes 30 Under 30 AI list, and named one of the Most Influential Africans of 2024 by New African Magazine.",
+        topic: "Adaptive Learning with Artificial Barriers",
+        expanded: false,
+        link: null,
+        affiliate: null,
+      },
+    ],
+    cfp: {
+      title: "Trustworthy AI Workshop @ Deep Learning Indaba 2026",
+      description:
+        "The Trustworthy AI Workshop at Deep Learning Indaba 2026 aims to foster meaningful discussions on trustworthy AI, covering topics such as fairness, interpretability, robustness, privacy, and accountability, with a particular emphasis on African perspectives and context. As machine learning (ML) models play an increasingly central role in high-stakes decision-making across sectors like healthcare, education, and finance, ensuring that these technologies align with ethical principles to build trust is essential for their responsible deployment. This workshop seeks to provide a platform for researchers to engage with the challenges of developing and deploying AI systems, with a focus on addressing systemic inequalities and building trust in these technologies, particularly from an African perspective or within the African context.",
+      topics: [
+        {
+          title: "System Development:",
+          description:
+            "Advances in algorithms and metrics for ensuring fairness, robustness, interpretability, or privacy in ML systems",
+        },
+        {
+          title: "Auditing:",
+          description:
+            "Audit techniques for assessing fairness, robustness, interpretability, or privacy in data and ML models",
+        },
+        {
+          title: "Legal Frameworks:",
+          description:
+            "Analysis of data protection and privacy and  non-discrimination laws in Africa, AI governance and regulatory frameworks",
+        },
+        {
+          title: "Social Science Perspectives:",
+          description:
+            "Case studies on the impact of AI on marginalized communities, historical perspectives on discrimination, perceptions of fairness and AI",
+        },
+        {
+          title: "Philosophical Perspectives:",
+          description:
+            "Identification and reflections on values embedded in AI systems, ethical frameworks for AI deployment",
+        },
+      ],
+      othertopics: [],
+      topicofsub:
+        "We invite submissions that explore the themes enlisted on the left side of this section, focusing on the unique challenges and opportunities for building trust in AI. Submissions outside of these themes but still related to trust in AI will also be considered. However, submissions unrelated to trust in AI will not be considered.",
+      additionalinfo:
+        "All accepted submissions will have the opportunity to present their work as a poster. Additionally, selected submissions will be invited to present their work through a short contributed talk during the workshop.",
+      formatting:
+        "We accept extended abstracts of up to 4 pages, plus unlimited pages for references. The abstract must follow the same Latex format as Deep Learn Indaba  formatting guidelines (PMLR) available here:",
+      formatname: "CTAN",
+      abstractsubdate: "June 1st, 23:59 AoE",
+      notificationdate: "July 13th, 23:59 AoE",
+      submitname: "Microsoft CMT",
+      call_for_reviewers:
+        "In addition to submissions, we’re also seeking volunteers to contribute to the workshop's success by serving as reviewers. Reviewers will be asked to provide thoughtful and constructive feedback on approximately 1-3 submitted papers. If you are interested in volunteering for our Program Committee, please complete the sign-up form at",
+      whycmt:
+        "The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.",
+      submitinstruction:
+        "Authors are required to register an account on the CMT (Conference Management Toolkit) system in order to submit their extended abstracts. If you do not have a CMT account, please create one by following the instructions provided",
+      submittype: "cmt",
+      dualsubpolicy:
+        "It is permitted to submit work that is under review or has been accepted for publication elsewhere. If your work has already been accepted at another venue, please submit a de-anonymized version and indicate this in the CMT submission form.",
+      anonymization:
+        "Our peer review process is fully anonymous, meaning reviewers will not know the authors’ identities, and authors will not know the reviewers' identities. Please ensure that you anonymize your submission. This means that the submitted PDF should not include the authors' names, and any references to your own work should be cited in a way that does not reveal that it was authored by you. Submissions that are not properly anonymized may be rejected without review.",
+      submitinstructionlink:
+        "https://cmt3.research.microsoft.com/docs/help/general/account-creation.html",
+      submissionlink:
+        "https://cmt3.research.microsoft.com/TrustAIDeepIndaba2025",
+      formatlink: "https://ctan.org/tex-archive/macros/latex/contrib/jmlr",
+      tutoriallink:
+        "https://www.youtube.com/watch?v=2wNEfoxcRYw&ab_channel=FES-CongressonFoodandEnvironmentalSecurity",
+    },
+    panelists: [
+      {
+        name: "",
+        image: "/images/2026/place_holder.jpg",
+        bio: "To be confirmed",
+        topic: "",
+        expanded: false,
+        link: null,
+        affiliate:
+          "",
+      },
+      {
+        name: "",
+        image: "/images/2026/place_holder.jpg",
+        bio: "To be confirmed",
+        topic: "",
+        expanded: false,
+        link: null,
+        affiliate:
+          "",
+      },
+    ],
+    organizers: [
+      {
+        name: "Allassan Tchangmena A Nken",
+        affiliate:
+          "PhD Student at University of Galway in Ireland",
+        image: "/images/2026/allassan.jpg",
+        bio: "Allassan Tchangmena A Nken is a PhD student at the University of Galway, where his research focuses on developing efficient and privacy-preserving techniques for video-based human activity recognition. He holds a Master's degree in Robotics Engineering from ENSP Douala, Cameroon, a Master's degree in Mathematical Sciences from AIMS Cameroon, and a Master's degree in Machine Intelligence from AMMI Senegal. Most recently, he completed a research internship at IBM Research Africa in the Nairobi office, where he deepened his expertise in the foundations of machine learning. Beyond research he is a active member and Co-founder of the Mathematical Collaborative Forum, a initiative dedicated to advancing mathematical research and fostering collaboration to address societal challenges across Africa",
+        link: "https://matzolla.github.io",
+        expanded: false,
+      },
+      {
+        name: "Belona Sonna",
+        affiliate:
+          "PhD Candidate at Australian National University in Australia",
+        image: "/images/2026/belona.jpeg",
+        bio: "Belona is a PhD Candidate at the Australian National University. Her current research focuses on building frameworks based on formal abductive explanations to audit AI ethics principles in AI decision-making. Beyond research, she is founder of BEL'S AI Initiative, a non-profit organization based in Cameroon that  delivers bilingual (English–French) AI outreach programs in Central Africa, focusing on rural and underrepresented communities. She has been recognized in prominent lists such as 80 African women advancing Artificial Intelligence in Africa and around the world and the 100 Brilliant Women in AI Ethics list for 2022.",
+        link: "https://belsonna.github.io/belonasonna-github.io/",
+        expanded: false,
+      },
+      {
+        name: "Dalia Yousif Ali",
+        affiliate:
+          "Doctoral Candidate at Technical University of Munich (TUM) in Germany",
+        image: "/images/2026/place_holder.jpg",
+        bio: "Dalia Yousif Ali is a doctoral candidate, lecturer, and research associate at the TUM School of Technology and Social Science, within the Professorship of Societal Computing. Her research examines the societal impacts of technology and data science, with a particular focus on equity, ethical innovation, and the role of AI in shaping societal outcomes. She is also conducting research on AI benchmarking for under-resourced languages, addressing gaps in evaluation and representation across diverse linguistic contexts. Prior to joining TUM, she was a research associate at Harvard Business School’s Digital Value Lab, where she investigated the effects of artificial intelligence and digital transformation on organisational performance and value creation. Her work sits at the intersection of technology, data science, and social development, with a sustained focus on advancing responsible and socially beneficial innovation.",
+        link: "https://www.linkedin.com/in/dalia-yousif-79561a114/",
+        expanded: false,
+      },
+      {
+        name: "Deborah Dormah Kanubala",
+        affiliate: "Doctoral Researcher at Saarland University in Germany",
+        image: "/images/2025/kanubala.jpg",
+        bio: "Deborah Dormah Kanubala is a Doctoral Researcher at Saarland University in Germany and co-organizer of WiMLDS Accra-Ghana. Deborah is passionate about ensuring that machine learning systems are fair, inclusive, and meet societal expectations. Prior to her PhD, she worked as an NLP Engineer at Proto and also lectured at the Academic City University in Accra, Ghana. She is passionate about getting more women and underrepresented groups of people involved in the AI industrial revolution. Her work and leadership have been widely recognized, and she has been featured in “100 Brilliant Women in AI Ethics” (2024), “120+ Women Spearheading Advances in AI”, and “80 African Women Advancing AI”.  She is also an active member of the AI Grid network for AI Talents.",
+        link: "https://www.linkedin.com/in/kanubalad/",
+        expanded: false,
+      },
+    ],
+    coc: {},
+    schedule: [
+      {
+        starttime: "09:00",
+        endtime: "09:05",
+        title: "Opening remarks",
+        abstract: "",
+        speakername: "",
+        speakerlink: null,
+      },
+      {
+        starttime: "09:05",
+        endtime: "09:50",
+        title:
+          "Keynote with Q&A",
+        abstract: "",
+        speakername: "",
+        speakerlink: null,
+      },
+      {
+        starttime: "09:50",
+        endtime: "09:55",
+        title: "Short Break",
+        abstract: "",
+        speakername: "",
+        speakerlink: null,
+      },
+      {
+        starttime: "09:55",
+        endtime: "10:55",
+        title: "Contributed Talks with Q&A",
+        abstract: "",
+        speakername: "",
+        speakerlink: null,
+      },
+      {
+        starttime: "10:55",
+        endtime: "11:00",
+        title: "Short Break",
+        abstract: "",
+        speakername: "",
+        speakerlink: null,
+      },
+      {
+        starttime: "11:00",
+        endtime: "12:00",
+        title:
+          "Panel",
+        abstract:
+          "",
+        speakername: "",
+        speakerlink: null,
+      },
+      {
+        starttime: "12:00",
+        endtime: "12:05",
+        title: "Closing Remark",
+        abstract: "",
+        speakername: "",
+        speakerlink: null,
+      },
+    ],
+    advisors: [
+      {
+        name: "Aisha Alryeh Mkean Alaagib",
+        affiliate: "Applied researcher at a private ARD in Saudi Arabia",
+        image: "/images/2025/aisha.jpeg",
+        bio: "Aisha Alaagib is an applied researcher at a private ARD in Saudi Arabia, specializing in LLM evaluation, synthetic data generation, and video anomaly detection. In her current role, she works on advancing innovative solutions in artificial intelligence. Previously, she was a research assistant at the German Research Center for Artificial Intelligence (DFKI), where she contributed to studies on representation learning for remote sensing data under the guidance of Prof. Sebastian Vollmer and Prof. Seth Flaxman. Aisha has also completed research internships at Mila Quebec AI Institute and Vector Institute, where she honed her skills in AI development and data science. She holds two M.Sc. degrees in Mathematical Sciences and Machine Intelligence from AIMS Cameroon and AIMS Rwanda, respectively, and a bachelor’s degree in Mathematics and Computer Science from the University of Khartoum, Sudan.",
+        link: "https://aishaalaagib.netlify.app/",
+        expanded: false,
+      },
+      {
+        name: "Miriam Rateike",
+        affiliate:
+          "Research Scientist at IBM Research Africa, Nairobi, Kenya and PhD Student at Saarland University, Germany",
+        image: "/images/2025/miriamrateike.jpg",
+        bio: "Miriam is a research scientist at IBM Research Africa, and an ELLIS PhD student at Saarland University. In her PhD, her research focuses on creating algorithms for fair decision making under feedback loops. She is also enrolled in legal studies and thus particularly interested in the intersection of fairness and law. Miriam received the Google AI Fellowship 2023 in Machine Learning. She was an organizer of four NeurIPS Algorithmic Fairness workshops 2021 - 2024, the ELLIS workshop on Causethial Machine Learning 2021, the Causethical Machine Learning Seminar 2021/22, and the TReND Python Course 2021-2022. More here: https://research.ibm.com/people/miriam-rateike",
+        link: "https://sites.google.com/view/miriam-rateike/about",
+        expanded: false,
+      },
+      {
+        name: "Dr. John Wamburu",
+        affiliate: "Research Engineer at Google, Nairobi, Kenya",
+        image: "/images/2025/johnwamburu.jpeg",
+        bio: "Dr. John Wamburu is a Research Engineer at Google. His current work focuses on building and applying ML models to forecast global food insecurity. Previously, he was a Research Scientist at IBM where he focused on trustworthy AI and anomalous pattern discovery. He was a co-organizer of the Practical ML for Low Resource Settings Workshop at ICLR and the Trustworthy AI Workshop at IJCAI, both in 2024. He received his Ph.D. in 2023 from the University of Massachusetts Amherst.",
+        link: null,
+        expanded: false,
+      },
+    ],
+  },
   taid2025: {
     name: "TrustAIDeepLIndaba2025",
     title: "TrustAI Workshop: Building Public Awareness and Engagement",

@@ -7,6 +7,7 @@ const WS2023 = lazy(() => import("src/components/WS2023"));
 const WS2022 = lazy(() => import("src/components/WS2022"));
 const WS2024 = lazy(() => import("src/components/WS2024"));
 const WS2025 = lazy(() => import("src/components/WS2025"));
+const WS2026 = lazy(() => import("src/components/WS2026"));
 const Schedule = lazy(() => import("src/components/Schedule"));
 const CallForPapers = lazy(() => import("src/components/CallForPapers"));
 const Organizers = lazy(() => import("src/components/Organizers"));
@@ -25,6 +26,7 @@ const routes = [
       { path: "/TrustAIIndaba2022", element: <WS2022 /> },
       { path: "/TrustAIIJCAI2024", element: <WS2024 /> },
       { path: "/TrustAIIndaba2025", element: <WS2025 /> },
+      { path: "/TrustAIIndaba2026", element: <WS2026 /> },
       { path: "/schedule", element: <Schedule /> },
       { path: "/call-for-papers", element: <CallForPapers /> },
       { path: "/organizers", element: <Organizers /> },
