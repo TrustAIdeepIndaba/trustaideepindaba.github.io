@@ -144,17 +144,7 @@ export const workshops = {
     panelists: [
       {
         name: "",
-        image: "/images/2026/place_holder.jpg",
-        bio: "To be confirmed",
-        topic: "",
-        expanded: false,
-        link: null,
-        affiliate:
-          "",
-      },
-      {
-        name: "",
-        image: "/images/2026/place_holder.jpg",
+        image: "",
         bio: "To be confirmed",
         topic: "",
         expanded: false,
