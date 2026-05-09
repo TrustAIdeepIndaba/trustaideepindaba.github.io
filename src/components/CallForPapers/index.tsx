@@ -451,7 +451,7 @@ const CallForPapers = () => {
                       </Stack>
                     )}
                   </Box>
-                  {/*{cfp?.whycmt && (
+                  {cfp?.whycmt && (
                     <Box>
                       <Typography
                         sx={{ fontSize: isMobile ? 33 : 16, fontWeight: 700 }}
@@ -462,7 +462,7 @@ const CallForPapers = () => {
                         {cfp?.whycmt}
                       </Typography>
                     </Box>
-                  )}*/}
+                  )}
                 </Stack>
               </Grid>
             </Grid>
