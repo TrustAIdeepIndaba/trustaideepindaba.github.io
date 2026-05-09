@@ -172,7 +172,7 @@ const cfp = workshops[`taid${active}`]?.cfp;
                 >
                   {workshops[activeWs].about}
                 </Typography>
-                <Box sx={{ mt: 2 }}>
+                {/*<Box sx={{ mt: 2 }}>
                   <Stack direction="row" spacing={0.5} alignItems="center">
                     <Typography sx={{ fontSize: isMobile ? 30 : 18 }}>
                       Checkout our
@@ -189,7 +189,7 @@ const cfp = workshops[`taid${active}`]?.cfp;
                       </Typography>
                     </Link>
                   </Stack>
-                </Box>
+                </Box>*/}
               </Box>
             )}
           </Box>
