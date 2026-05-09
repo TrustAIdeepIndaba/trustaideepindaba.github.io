@@ -15,7 +15,7 @@ import { Link } from "react-router-dom";
 // App related imports
 import Footer from "src/components/Footer";
 import { customStyles } from "src/styles";
-import { isMobile, workshops, papers } from "src/helpers";
+import { isMobile, workshops, papers,activeCfp } from "src/helpers";
 
 const Workshop = (props) => {
   const { activeWs } = props;
@@ -77,7 +77,8 @@ const Workshop = (props) => {
       window.open(link, "_blunk");
     }
   };
-
+const [active, setActive] = useState(activeCfp);
+const cfp = workshops[`taid${active}`]?.cfp;
   return (
     <React.Fragment>
       <Box ref={mainContentRef}>
@@ -422,8 +423,21 @@ const Workshop = (props) => {
                   </Grid>
                 ))}
               </Grid>
+              {cfp?.whycmt && (
+                                    <Box>
+                                      <Typography
+                                        sx={{ fontSize: isMobile ? 33 : 16, fontWeight: 700 }}
+                                      >
+                                        Acknowledgment
+                                      </Typography>
+                                      <Typography sx={{ fontSize: isMobile ? 30 : 14 }}>
+                                        {cfp?.whycmt}
+                                      </Typography>
+                                    </Box>
+                                  )}
             </Container>
           </>
+          
         )}
         {workshops[activeWs].isls?.length > 0 && (
           <>
@@ -532,6 +546,18 @@ const Workshop = (props) => {
                   </Grid>
                 ))}
               </Grid>
+              {cfp?.whycmt && (
+                                    <Box>
+                                      <Typography
+                                        sx={{ fontSize: isMobile ? 33 : 16, fontWeight: 700 }}
+                                      >
+                                        Acknowledgment
+                                      </Typography>
+                                      <Typography sx={{ fontSize: isMobile ? 30 : 14 }}>
+                                        {cfp?.whycmt}
+                                      </Typography>
+                                    </Box>
+                                  )}
             </Container>
           </>
         )}
