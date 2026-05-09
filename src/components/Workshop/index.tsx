@@ -423,7 +423,7 @@ const cfp = workshops[`taid${active}`]?.cfp;
                   </Grid>
                 ))}
               </Grid>
-              {/*
+              
               {cfp?.whycmt && (
                                     <Box>
                                       <Typography
@@ -436,7 +436,7 @@ const cfp = workshops[`taid${active}`]?.cfp;
                                       </Typography>
                                     </Box>
                                   )}
-                                */}
+                               
             </Container>
           </>
           
