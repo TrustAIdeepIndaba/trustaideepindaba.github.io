@@ -422,7 +422,7 @@ const cfp = workshops[`taid${active}`]?.cfp;
                     </Stack>
                   </Grid>
                 ))}
-{cfp?.whycmt && (
+{/*{cfp?.whycmt && (
                                     <Box>
                                       <Typography
                                         sx={{ fontSize: isMobile ? 33 : 16, fontWeight: 700 }}
@@ -433,7 +433,7 @@ const cfp = workshops[`taid${active}`]?.cfp;
                                       The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
                                       </Typography>
                                     </Box>
-                                  )}
+)}*/}
               </Grid>          
             </Container>
           </>       
