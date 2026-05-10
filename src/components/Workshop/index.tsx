@@ -422,7 +422,6 @@ const cfp = workshops[`taid${active}`]?.cfp;
                     </Stack>
                   </Grid>
                 ))}
-
 {cfp?.whycmt && (
                                     <Box>
                                       <Typography
@@ -437,8 +436,7 @@ const cfp = workshops[`taid${active}`]?.cfp;
                                   )}
               </Grid>          
             </Container>
-          </>
-          
+          </>       
         )}
         {workshops[activeWs].isls?.length > 0 && (
           <>
