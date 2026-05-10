@@ -422,9 +422,8 @@ const cfp = workshops[`taid${active}`]?.cfp;
                     </Stack>
                   </Grid>
                 ))}
-              </Grid>
-              
-              {cfp?.whycmt && (
+
+{cfp?.whycmt && (
                                     <Box>
                                       <Typography
                                         sx={{ fontSize: isMobile ? 33 : 16, fontWeight: 700 }}
@@ -436,7 +435,7 @@ const cfp = workshops[`taid${active}`]?.cfp;
                                       </Typography>
                                     </Box>
                                   )}
-                               
+              </Grid>          
             </Container>
           </>
           
