@@ -176,7 +176,7 @@ export const workshops = {
         name: "Dalia Yousif Ali",
         affiliate:
           "Doctoral Candidate at Technical University of Munich (TUM) in Germany",
-        image: "/images/2026/place_holder.jpg",
+        image: "/images/2026/dalia.jpeg.webp",
         bio: "Dalia Yousif Ali is a doctoral candidate, lecturer, and research associate at the TUM School of Technology and Social Science, within the Professorship of Societal Computing. Her research examines the societal impacts of technology and data science, with a particular focus on equity, ethical innovation, and the role of AI in shaping societal outcomes. She is also conducting research on AI benchmarking for under-resourced languages, addressing gaps in evaluation and representation across diverse linguistic contexts. Prior to joining TUM, she was a research associate at Harvard Business School’s Digital Value Lab, where she investigated the effects of artificial intelligence and digital transformation on organisational performance and value creation. Her work sits at the intersection of technology, data science, and social development, with a sustained focus on advancing responsible and socially beneficial innovation.",
         link: "https://www.linkedin.com/in/dalia-yousif-79561a114/",
         expanded: false,
