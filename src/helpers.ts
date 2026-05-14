@@ -136,7 +136,7 @@ export const workshops = {
       submitinstructionlink:
         "https://cmt3.research.microsoft.com/docs/help/general/account-creation.html",
       submissionlink:
-        "https://cmt3.research.microsoft.com/TrustAIDeepIndaba2025",
+        "https://cmt3.research.microsoft.com/TrustAIDeepIndaba2026",
       formatlink: "https://ctan.org/tex-archive/macros/latex/contrib/jmlr",
       tutoriallink:
         "https://www.youtube.com/watch?v=2wNEfoxcRYw&ab_channel=FES-CongressonFoodandEnvironmentalSecurity",
