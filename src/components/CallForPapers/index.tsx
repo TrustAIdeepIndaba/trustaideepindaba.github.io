@@ -160,9 +160,37 @@ const CallForPapers = () => {
                       {cfp?.description}
                     </Typography>
                   )}
+                  {cfp?.topicofsub && (
+                    <Box>
+                      <Typography
+                        sx={{ fontSize: isMobile ? 33 : 16, fontWeight: 700 }}
+                      >
+                      Submission Tracks
+                      </Typography>
+                      <Typography sx={{ fontSize: 15 }}>
+                  We welcome submissions under two tracks:
+                  </Typography>
+                    </Box>
+                  )}
+                  <Stack sx={{ pl: 5 }} spacing={1}>
+                    {cfp?.tracks?.map((tps, index) => (
+                      <Stack
+                        direction="row"
+                        alignItems="center"
+                        spacing={1}
+                        key={index}
+                      >
+                        <SquareIcon sx={{ fontSize: isMobile ? 18 : 9 }} />
+                        <Typography sx={{ fontSize: isMobile ? 30 : 14 }}>
+                          <span style={{ fontWeight: 700 }}>{tps.title}</span>{" "}
+                          {tps.description}
+                        </Typography>
+                      </Stack>
+                    ))}
+                  </Stack>
                   <Typography sx={{ fontSize: 15 }}>
-                    We welcome submissions across disciplines, including
-                    computer science, law, social sciences, ethics, and policy.
+                    Submissions across disciplines, including
+                    computer science, law, social sciences, ethics, and policy, are welcome.
                     Interdisciplinary approaches are highly encouraged. General
                     areas of interest include but are not limited to:
                   </Typography>
