@@ -116,8 +116,17 @@ export const workshops = {
         "We invite submissions that explore the themes enlisted on the left side of this section, focusing on the unique challenges and opportunities for building trust in AI. Submissions outside of these themes but still related to trust in AI will also be considered. However, submissions unrelated to trust in AI will not be considered.",
       additionalinfo:
         "All accepted submissions will have the opportunity to present their work as a poster. Additionally, selected submissions will be invited to present their work through a short contributed talk during the workshop.",
-      formatting:
-        "We accept extended abstracts of up to 4 pages, plus unlimited pages for references. The abstract must follow the same Latex format as Deep Learn Indaba  formatting guidelines (PMLR) available here:",
+      formatting: "We accept extended abstracts of up to 4 pages, plus unlimited pages for references. The abstract must follow the same Latex format as Deep Learn Indaba  formatting guidelines (PMLR) available here:",
+      tracks:[
+        {
+          title: "Regular Track:",
+          description: "For original unpublished work. Submissions will undergo a standard peer-review process. Accepted papers will be included in the workshop proceedings."
+        },
+        {
+          title: "Non-Archival Track:",
+          description: "For already published papers (2024 onwards). Submissions will not undergo peer review and will not be included in the workshop proceedings. Accepted submissions will be invited for presentation at the workshop."
+        }
+      ],  
       formatname: "CTAN",
       abstractsubdate: "June 1st, 23:59 AoE",
       notificationdate: "July 13th, 23:59 AoE",
@@ -130,9 +139,9 @@ export const workshops = {
         "Authors are required to register an account on the CMT (Conference Management Toolkit) system in order to submit their extended abstracts. If you do not have a CMT account, please create one by following the instructions provided",
       submittype: "cmt",
       dualsubpolicy:
-        "It is permitted to submit work that is under review or has been accepted for publication elsewhere. If your work has already been accepted at another venue, please submit a de-anonymized version and indicate this in the CMT submission form.",
+        "It is permitted to submit work that is under review or has been accepted for publication elsewhere. If your work has already been accepted at another venue, please submit a de-anonymized version and indicate this in the CMT submission form. The dual submission policy does not apply to the Non-Archival Track.",
       anonymization:
-        "Our peer review process is fully anonymous, meaning reviewers will not know the authors’ identities, and authors will not know the reviewers' identities. Please ensure that you anonymize your submission. This means that the submitted PDF should not include the authors' names, and any references to your own work should be cited in a way that does not reveal that it was authored by you. Submissions that are not properly anonymized may be rejected without review.",
+        "Our peer review process is fully anonymous, meaning reviewers will not know the authors’ identities, and authors will not know the reviewers' identities. Please ensure that you anonymize your submission. This means that the submitted PDF should not include the authors' names, and any references to your own work should be cited in a way that does not reveal that it was authored by you. Submissions that are not properly anonymized may be rejected without review. The anonymization policy does not apply to the Non-Archival track.",
       submitinstructionlink:
         "https://cmt3.research.microsoft.com/docs/help/general/account-creation.html",
       submissionlink:
