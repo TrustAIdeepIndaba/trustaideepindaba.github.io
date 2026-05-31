@@ -139,9 +139,9 @@ export const workshops = {
         "Authors are required to register an account on the CMT (Conference Management Toolkit) system in order to submit their extended abstracts. If you do not have a CMT account, please create one by following the instructions provided",
       submittype: "cmt",
       dualsubpolicy:
-        "It is permitted to submit work that is under review or has been accepted for publication elsewhere. If your work has already been accepted at another venue, please submit a de-anonymized version and indicate this in the CMT submission form. The dual submission policy does not apply to the Non-Archival Track.",
+        "It is permitted to submit work that is under review or has been accepted for publication elsewhere. If your work has already been accepted at another venue, please submit a de-anonymized version and indicate this in the CMT submission form. The dual submission policy does not apply to the Published-paper Track.",
       anonymization:
-        "Our peer review process is fully anonymous, meaning reviewers will not know the authors’ identities, and authors will not know the reviewers' identities. Please ensure that you anonymize your submission. This means that the submitted PDF should not include the authors' names, and any references to your own work should be cited in a way that does not reveal that it was authored by you. Submissions that are not properly anonymized may be rejected without review. The anonymization policy does not apply to the Non-Archival track.",
+        "Our peer review process is fully anonymous, meaning reviewers will not know the authors’ identities, and authors will not know the reviewers' identities. Please ensure that you anonymize your submission. This means that the submitted PDF should not include the authors' names, and any references to your own work should be cited in a way that does not reveal that it was authored by you. Submissions that are not properly anonymized may be rejected without review. The anonymization policy does not apply to the Published-paper track.",
       submitinstructionlink:
         "https://cmt3.research.microsoft.com/docs/help/general/account-creation.html",
       submissionlink:
