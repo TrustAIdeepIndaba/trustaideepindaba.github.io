@@ -119,11 +119,11 @@ export const workshops = {
       formatting: "We accept extended abstracts of up to 4 pages, plus unlimited pages for references. The abstract must follow the same Latex format as Deep Learn Indaba  formatting guidelines (PMLR) available here:",
       tracks:[
         {
-          title: "Regular Track:",
+          title: "Unpublished Paper Track:",
           description: "For original unpublished work. Submissions will undergo a standard peer-review process. Accepted papers will be included in the workshop proceedings."
         },
         {
-          title: "Non-Archival Track:",
+          title: "Published Paper Track:",
           description: "For already published papers (2024 onwards). Submissions will not undergo peer review and will not be included in the workshop proceedings. Accepted submissions will be invited for presentation at the workshop."
         }
       ],  
