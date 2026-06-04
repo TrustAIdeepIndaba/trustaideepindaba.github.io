@@ -128,8 +128,10 @@ export const workshops = {
         }
       ],  
       formatname: "CTAN",
-      abstractsubdate: "June 1st, 23:59 AoE",
-      notificationdate: "July 13th, 23:59 AoE",
+      old_sub_date: "June 1st, 23:59 AoE",
+      abstractsubdate: "June 23rd, 23:59 AoE",
+      old_notification_date: "July 13th, 23:59 AoE",
+      notificationdate: "July 26th, 23:59 AoE",
       submitname: "Microsoft CMT",
       call_for_reviewers:
         "In addition to submissions, we’re also seeking volunteers to contribute to the workshop's success by serving as reviewers. Reviewers will be asked to provide thoughtful and constructive feedback on approximately 1-3 submitted papers. If you are interested in volunteering for our Program Committee, please complete the sign-up form at",
