@@ -79,6 +79,15 @@ export const workshops = {
         link: null,
         affiliate: null,
       },
+      {
+        name: "Tobi Olatunji",
+        image:"/images/2026/Tobi.png",
+        bio: "Tobi Olatunji is a physician turned Machine Learning Scientist with a decade of experience in Clinical Natural Language Processing (NLP), Speech Recognition, & Speech Translation for healthcare. After building intelligent systems for healthcare at AWS Health AI and Enlitic in San Francisco, he founded Intron, the first automated real-time ambient medical scribe that supports 500+ African accents and 24 languages saving overworked doctors 3+hrs per day. Tobi holds 3 US technology patents, is a Member of the Commonwealth Artificial Intelligence Consortium (CAIC), and the Research Director at Bio-RAMP Labs. Tobi currently sits on the Advisory Board at the OpenNotes Lab at Harvard Medical School and Beth Israel Deaconess Medical Center and served as Technical Advisor to the World Bank, UNICEF, and the Harvard Radcliffe Institute on scaling digital and mHealth interventions in Africa. He holds a Bachelor of Medicine, Bachelor of Surgery (MBBS) degree from the College of Medicine, University of Ibadan; an MSc in Medical Informatics from the University of San Francisco, a Certificate in Healthcare Management from Yale School of Management and an MSc in Computer Science from the Georgia Institute of Technology. He has published at Interspeech, Neurips, ACL, Nature, NAACL, EACL, MIDL, EMNLP, and other top machine-learning conferences/workshops.",
+        topic: "",
+        expanded: false,
+        link: null,
+        affiliate: null,
+      },
     ],
     cfp: {
       title: "Trustworthy AI Workshop @ Deep Learning Indaba 2026",
