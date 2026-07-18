@@ -171,6 +171,15 @@ export const workshops = {
         link: null,
         affiliate:null,
       },
+      { 
+        name: "Blessing Ogbuokiri",
+        image:"/images/2026/BlessingO.jpg",
+        bio: "Dr. Blessing Ogbuokiri is an Assistant Professor in the Department of Computer Science at Brock University, Canada, and Director of the Responsible and Applied Machine Learning Laboratory (RAML Lab). He earned his PhD in Computer Science from the University of the Witwatersrand, Johannesburg. His research expertise lies in responsible artificial intelligence, AI safety, machine learning and NLP, with a focus on fairness, transparency, and ethical deployment of AI models. He also works on advancing theoretical computing methods to improve the interpretability and scalability of AI systems. Much of his work bridges fundamental algorithmic research with real-world applications, particularly in health and social good domains.",
+        topic: "",
+        expanded: false,
+        link: null,
+        affiliate:null,
+      },
     ],
     organizers: [
       {
