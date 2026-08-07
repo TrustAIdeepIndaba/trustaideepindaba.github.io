@@ -268,7 +268,7 @@ export const workshops = {
           "Panel",
         abstract:
           "",
-        speakername: "",
+        speakername: "Tobi Olatunji, Cecilia Mwende, Dr Blessing Ogbuokiri ",
         speakerlink: null,
       },
       {
