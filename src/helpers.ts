@@ -217,6 +217,14 @@ export const workshops = {
         link: "https://www.linkedin.com/in/kanubalad/",
         expanded: false,
       },
+      {
+        name: "Ubaida Napari Abdulai",
+        affiliate: "AI/ML Engineer",
+        image: "/images/2026/Ubaida_Abdulai_Headshot.jpg",
+        bio: "Ubaida Abdulai is an AI/ML Engineer, DEI (Diversity, Equity and Inclusion) and Digital Transformation Advocate with an interest in using technology for social good. She designs and implements AI solutions that drive innovation across banking, healthcare, and development sectors. Her work is guided by a deep commitment to Ethical and Responsible AI, Fairness, and Governance, ensuring that technological advancement remains inclusive, transparent, and responsible. Beyond engineering, Ubaida is an advocate for diversity in technology. In her role as Programs Manager at Because She Can, she led workshops, mentorship programs, and trainings for more than 1000 women and girls, secured funding for digital empowerment initiatives, and facilitated laptop donations and tech education for underserved communities. A recognized speaker and thought leader, Ubaida has spoken at PyCon Africa and the Ghana Data Science Summit, where she engages audiences on topics such as AI ethics, digital inclusion, mentorship, and equitable transformation. Whether she’s building intelligent systems, leading digital initiatives, or creating mentorship opportunities for young women in tech, Ubaida remains driven by one purpose: to bridge the gap between innovation and humanity, creating technology that empowers people and transforms lives.",
+        link: "https://www.linkedin.com/in/",
+        expanded: false,
+      }
     ],
     coc: {},
     schedule: [
